@@ -1,0 +1,8 @@
+---------------------------------------------------------------------------------------------------
+Version: 1.18.1
+Date: 2022-05-23
+  Features:
+    - Initial release based on fork of Cargo Ships 0.1.18 with crude artillery ship added.
+  Changes:
+  Bugfixes:
+  Info:

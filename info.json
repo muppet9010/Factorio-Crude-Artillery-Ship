@@ -1,0 +1,26 @@
+{
+    "name": "crude-artillery-ship",
+    "version": "1.18.1",
+    "title": "Cargo Ships - Artillery",
+    "author": "Muppet9010",
+    "contact": "",
+    "homepage": "https://mods.factorio.com/mod/crude-artillery-ship",
+    "factorio_version": "1.1",
+    "dependencies": [
+        "base >= 1.1",
+        "crude-artillery-ship-graphics >= 0.1.0",
+        "! cargo-ships",
+        "? factorio-world >= 1.0.2",
+        "(?) NewIslands >= 0.1.0",
+        "? islands_world >= 1.1.0",
+        "? SeaBlock >= 0.5.5",
+        "(?) Hovercraft >= 0.0.1",
+        "? Hovercrafts >= 1.1.0",
+        "? angelspetrochem >= 0.9.17",
+        "? ctg >= 0.4.3",
+        "? Krastorio2 >= 1.0.18",
+        "! cargo-ships-seraph",
+        "(?) rso-mod"
+    ],
+    "description": "A very crude artillery ship added to a fork of the Cargo Ship mod."
+}
