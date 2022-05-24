@@ -13,5 +13,5 @@ For details on the great Cargo Ship mod see: https://mods.factorio.com/mod/cargo
 Known Issus:
 
 - The graphics are a bit crude, only the main easily fixed things have/will be done. Accepted bad points:
-    - The flash when the artillery fires isn't at the end of the barrel.
-    - The graphics of the artillery carriage on the ship can overlap slightly oddly in places.
+    - The graphics of the artillery carriage on top of the ship can overlap slightly oddly in places.
+    - The shadow of the connon's barrel has been removed as I can't get it to align for the different rotations.
